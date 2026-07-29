@@ -1,28 +1,33 @@
 header {
-    background-color:#6a95e6;
-    color: #1e53e4;
-    text-align: center;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 16px;
+background-
+color: #b4cbc5; cor de fundo /
+color:
+#013005; /
+cor da fonte */
+text-align: center; /* centraliza o texto horizontalmente "/
+max
+-width: seepx; / define a largura máxima que o elemento pode ter */
+margin: 0 auto; /* centraliza o bloco inteiro na tela */
+padding: 16px; /* espaçamento interno entre a borda e o conteúdo */
 }
-
-main {
-    background-color: #2150a8;
-    color: #cce0f5;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 16px;
+h1{
+color: #17048f;
 }
-
-img {
-    width: 80px;
-    height: 80px;
+main(
 }
-img{
-    display: block;
-    width: 250px;
-    margin: 0 auto;
-    border: 4px solid #000000;
-    height: 300px ;
+background-color: #e2e7cc;
+color: #013005;
+max-width: 800px;
+margin: 0 auto;
+padding: 16px;
+display: flex; /* ativa o flexbox para alinhar os elementos filhos lado a lado */
+img(
+}
+width: 150px; / define a largura fixa da imagem /
+height: 150px; / define a altura fixa da imagem */
+border: 2px solid #17048f; / adiciona uma borda sólida de 2px na cor azul/roxха */
+display: block; /* transforma a imagem em um bloco para aceitar margens verticais e quebra de linha */
+margin: 0 auto; /* centraliza a imagem horizontalmente na tela */
+.artigo-autor (
+font-weight: bold; /* deixa o texto em negrito */
 }
