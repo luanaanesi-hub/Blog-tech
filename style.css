@@ -48,7 +48,7 @@ img {
 }
 
 footer {
-    background-color: #56205e; /* Mesma cor escura do texto do header para combinar */
+    background-color: #ea70fd; /* Mesma cor escura do texto do header para combinar */
     color: #013005; /* Cor da fonte branca para dar contraste e leitura */
     text-align: center; /* Centraliza o texto horizontalmente */
     max-width: 800px; /* Mantém o mesmo alinhamento do header e do main */
