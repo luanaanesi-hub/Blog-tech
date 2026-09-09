@@ -6,7 +6,7 @@ body {
 
 header {
     background-color: #dd96c5; /* cor de fundo */
-    color: #9c18a5; /* cor da fonte */
+    color: #d0afd3; /* cor da fonte */
     text-align: center; /* centraliza o texto horizontalmente */
     max-width: 800px; /* define a largura máxima que o elemento pode ter */
     margin: 0 auto; /* centraliza o bloco inteiro na tela */
@@ -19,7 +19,7 @@ h1 {
 
 main {
     background-color: #bd4fd8;
-    color: #460e43;
+    color: #b794f7;
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
